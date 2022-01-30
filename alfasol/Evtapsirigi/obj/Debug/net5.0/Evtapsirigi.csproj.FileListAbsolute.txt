@@ -1,0 +1,16 @@
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\bin\Debug\net5.0\Evtapsirigi.exe
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\bin\Debug\net5.0\Evtapsirigi.deps.json
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\bin\Debug\net5.0\Evtapsirigi.runtimeconfig.json
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\bin\Debug\net5.0\Evtapsirigi.runtimeconfig.dev.json
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\bin\Debug\net5.0\Evtapsirigi.dll
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\bin\Debug\net5.0\ref\Evtapsirigi.dll
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\bin\Debug\net5.0\Evtapsirigi.pdb
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\obj\Debug\net5.0\Evtapsirigi.csproj.AssemblyReference.cache
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\obj\Debug\net5.0\Evtapsirigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\obj\Debug\net5.0\Evtapsirigi.AssemblyInfoInputs.cache
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\obj\Debug\net5.0\Evtapsirigi.AssemblyInfo.cs
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\obj\Debug\net5.0\Evtapsirigi.csproj.CoreCompileInputs.cache
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\obj\Debug\net5.0\Evtapsirigi.dll
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\obj\Debug\net5.0\ref\Evtapsirigi.dll
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\obj\Debug\net5.0\Evtapsirigi.pdb
+C:\Users\Hasanaal\Desktop\Stargate\Evtapsirigi-4--01.29.2022\alfasol\Evtapsirigi\obj\Debug\net5.0\Evtapsirigi.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\bin\Release\net5.0\Evtapsirigi.exe
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\bin\Release\net5.0\Evtapsirigi.deps.json
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\bin\Release\net5.0\Evtapsirigi.runtimeconfig.json
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\bin\Release\net5.0\Evtapsirigi.runtimeconfig.dev.json
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\bin\Release\net5.0\Evtapsirigi.dll
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\bin\Release\net5.0\ref\Evtapsirigi.dll
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\bin\Release\net5.0\Evtapsirigi.pdb
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\obj\Release\net5.0\Evtapsirigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\obj\Release\net5.0\Evtapsirigi.AssemblyInfoInputs.cache
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\obj\Release\net5.0\Evtapsirigi.AssemblyInfo.cs
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\obj\Release\net5.0\Evtapsirigi.csproj.CoreCompileInputs.cache
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\obj\Release\net5.0\Evtapsirigi.dll
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\obj\Release\net5.0\ref\Evtapsirigi.dll
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\obj\Release\net5.0\Evtapsirigi.pdb
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\obj\Release\net5.0\Evtapsirigi.genruntimeconfig.cache
+C:\Users\Hasanaal\source\repos\alfasol\Evtapsirigi\obj\Release\net5.0\Evtapsirigi.csproj.AssemblyReference.cache

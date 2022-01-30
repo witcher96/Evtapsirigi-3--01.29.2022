@@ -1,0 +1,16 @@
+C:\Users\Hasanaal\source\repos\alfasol\alfa\bin\Release\net5.0\alfa.exe
+C:\Users\Hasanaal\source\repos\alfasol\alfa\bin\Release\net5.0\alfa.deps.json
+C:\Users\Hasanaal\source\repos\alfasol\alfa\bin\Release\net5.0\alfa.runtimeconfig.json
+C:\Users\Hasanaal\source\repos\alfasol\alfa\bin\Release\net5.0\alfa.runtimeconfig.dev.json
+C:\Users\Hasanaal\source\repos\alfasol\alfa\bin\Release\net5.0\alfa.dll
+C:\Users\Hasanaal\source\repos\alfasol\alfa\bin\Release\net5.0\ref\alfa.dll
+C:\Users\Hasanaal\source\repos\alfasol\alfa\bin\Release\net5.0\alfa.pdb
+C:\Users\Hasanaal\source\repos\alfasol\alfa\obj\Release\net5.0\alfa.csproj.AssemblyReference.cache
+C:\Users\Hasanaal\source\repos\alfasol\alfa\obj\Release\net5.0\alfa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasanaal\source\repos\alfasol\alfa\obj\Release\net5.0\alfa.AssemblyInfoInputs.cache
+C:\Users\Hasanaal\source\repos\alfasol\alfa\obj\Release\net5.0\alfa.AssemblyInfo.cs
+C:\Users\Hasanaal\source\repos\alfasol\alfa\obj\Release\net5.0\alfa.csproj.CoreCompileInputs.cache
+C:\Users\Hasanaal\source\repos\alfasol\alfa\obj\Release\net5.0\alfa.dll
+C:\Users\Hasanaal\source\repos\alfasol\alfa\obj\Release\net5.0\ref\alfa.dll
+C:\Users\Hasanaal\source\repos\alfasol\alfa\obj\Release\net5.0\alfa.pdb
+C:\Users\Hasanaal\source\repos\alfasol\alfa\obj\Release\net5.0\alfa.genruntimeconfig.cache
